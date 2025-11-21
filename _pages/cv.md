@@ -13,7 +13,8 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student seeking a Summer 2026 internship to contribute to innovative and sustainable energy solutions through hands-on
+experience in mechanical design, process improvement, and project development.
 
 ---
 
