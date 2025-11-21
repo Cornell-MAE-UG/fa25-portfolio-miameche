@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/MiaPazResume2025 (7).pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [mkp86@cornell.edu](mailto:mkp86@cornell.edu) | | |
+**Email:** [mkp86@cornell.edu](mailto:mkp86@cornell.edu)
 
 ---
 
