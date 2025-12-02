@@ -1,6 +1,7 @@
 ---
 layout: default
-title: <Your Name>
+title: <Mia Paz> - Home
+permalink: /
 ---
 
 ## About Me
