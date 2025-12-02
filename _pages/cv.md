@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/MiaPazResume2025 (7).pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [mkp86@cornell.edu](mailto:mkp86@cornell.edu)
@@ -13,8 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student seeking a Summer 2026 internship to contribute to innovative and sustainable energy solutions through hands-on
-experience in mechanical design, process improvement, and project development.
+Aspiring engineering student seeking a Summer 2026 internship to contribute to innovative and sustainable energy solutions through hands-on experience in mechanical design, process improvement, and project development.  
 
 ---
 
