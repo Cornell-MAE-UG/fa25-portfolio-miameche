@@ -44,7 +44,7 @@ Aspiring engineering student seeking a Summer 2026 internship to contribute to i
   - Updated company spreadsheets and municipal databases to ensure alignment with verified job details, improving process efficiency
 
 
----
+
 
 #### Achievements & Certifications
 - 1st Place, Cornell Introduction to Mechanical Engineering DC Motor Car Competition (2023)
