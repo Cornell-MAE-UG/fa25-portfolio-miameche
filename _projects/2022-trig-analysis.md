@@ -3,7 +3,7 @@ layout: project
 title: System Dynamics Satellite Analysis
 description: MAE3260 Final Group Work Satellites
 technologies: [MATLAB, Simulink]
-image: /assets/images/function-graph.png
+image: /assets/images/satellite_pic.png
 ---
 
 
