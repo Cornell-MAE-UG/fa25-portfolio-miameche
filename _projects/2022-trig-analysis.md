@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: System Dynamics Satellite Analysis
+description: MAE3260 Final Group Work Satellites
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
 ---
@@ -22,4 +22,4 @@ This is how I solved the problem:
 
 Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
-
+Click [here]({{ "/assets/SatelliteFinalGroupWork.pdf" | relative_url }}) for my final project write-up.
