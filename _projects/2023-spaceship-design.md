@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Pneumatic Grinder Dissection
+title: Pneumatic Air Grinder Dissection
 description: Dissection Video for MAE3230
 technologies: [Fluid mechanics analysis methods, pneumatic air grinder]
 image: /assets/images/Grinder.png
