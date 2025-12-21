@@ -3,12 +3,12 @@ layout: project
 title: Pneumatic Grinder Dissection
 description: Dissection Video for MAE3230
 technologies: [Fluid mechanics analysis methods, pneumatic air grinder]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/Grinder.png
 ---
 
-This project presents a fluid-mechanical dissection of a pneumatic air grinder, with the goal of connecting its internal hardware to core fluid mechanics principles. The team analyzes how compressed air enters the tool, is regulated by the throttle system, and ultimately drives a pneumatic vane motor to produce high-speed rotational motion. By breaking down the components of the grinder, we show how pressure, flow rate, and energy conversion govern the tool’s performance.
+This project presents a fluid-mechanical dissection of a pneumatic air grinder, with the goal of connecting its internal hardware to core fluid mechanics principles. We analyzed how compressed air enters the tool, is regulated by the throttle system, and ultimately drives a pneumatic vane motor to produce high-speed rotational motion. By breaking down the components of the grinder, we show how pressure, flow rate, and energy conversion govern the tool’s performance.
 
-My role in the project focused on the parts explanation and physical dissection of the pneumatic grinder.
+My role in the project focused on the parts explanation and physical dissection of the pneumatic grinder:
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
