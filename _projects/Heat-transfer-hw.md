@@ -17,3 +17,4 @@ The transient heating problem highlighted how the lumped capacitance method work
 ## Files
 
 Homework PDF attached below.
+[Download Homework PDF](HeatTransferHw5.pdf)
