@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /assets/img/IMG_5957.jpeg
+image: /assets/images/IMG_5957.jpeg
 title: "Autonomous Cube-Collecting Robot"
 date: 2026-05-13
 published: true
