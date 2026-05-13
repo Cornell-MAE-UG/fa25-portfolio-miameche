@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: assets/img/IMG_5957.jpeg
+image: /assets/img/IMG_5957.jpeg
 title: "Autonomous Cube-Collecting Robot"
 date: 2026-05-13
 published: true
-labels:
+tags:
   - Mechatronics
-  - Embedded Systems
   - Robotics
   - Arduino
+  - Sensors
+  - Autonomous Navigation
 summary: "An autonomous robot designed to navigate a game board, detect boundaries and color regions, and collect cubes using sensor-based navigation and embedded motor control."
 ---
 
