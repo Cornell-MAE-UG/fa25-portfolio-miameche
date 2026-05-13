@@ -13,52 +13,10 @@ labels:
 summary: "An autonomous robot designed to navigate a game board, detect boundaries and color regions, and collect cubes using sensor-based navigation and embedded motor control."
 ---
 
-# Project Overview
+This project involved designing and building an autonomous cube-collecting robot for MAE 3780 Mechatronics. The robot was designed to navigate a game board using QTI edge sensors and a color sensor while collecting cubes through a front intake mechanism. Our original design included a one-way flap collection system, ultrasonic sensing for cube detection, and larger wheels for additional clearance, but several mechanical and electrical limitations forced us to iteratively redesign the robot throughout development.
 
-This project involved designing and building an autonomous cube-collecting robot for MAE 3780 Mechatronics. The robot was designed to navigate a game board using QTI edge sensors and a color sensor while collecting cubes using a front intake mechanism.
+As we tested the robot, we encountered challenges with sensor reliability, wheel integration, and mechanical intake design. The hinged collection system proved too stiff for cubes to pass through efficiently, so we replaced it with extended cardboard intake arms and adjusted the navigation logic to prioritize forward-only movement. We also attempted to integrate an ultrasonic sensor for object detection, but power limitations and time constraints ultimately led us to simplify the system and focus on more reliable sensor-based navigation.
 
-Our original design included:
-- A one-way flap collection system
-- Ultrasonic cube detection
-- Sensor-based autonomous navigation
-- A lightweight cardboard chassis with extended intake arms
+The final robot used QTI sensors for boundary detection and a color sensor for board navigation, with embedded C code controlling motor movement and recovery behavior. During competition, varying lighting conditions significantly impacted QTI sensor performance, requiring us to quickly adapt the robot by relying more heavily on color sensing. Although the robot did not fully perform as intended, the project provided valuable experience in embedded systems, iterative engineering design, debugging under constraints, and integrating mechanical, electrical, and software systems into a functioning autonomous robot.
 
-As development progressed, several mechanical and electrical constraints forced iterative redesigns. The final robot used a simplified forward-only collection strategy with extended intake arms and color-based recovery behavior.
-
-Despite sensor inconsistencies during competition, the robot remained mechanically reliable and successfully demonstrated autonomous navigation and embedded control integration.
-
-# Key Features
-
-- Autonomous navigation using QTI and color sensors
-- PWM motor control with Arduino timer registers
-- Embedded C programming with interrupt-based sensor handling
-- Adaptive recovery logic for board color transitions
-- Custom cardboard intake and chassis design
-
-# Challenges & Iteration
-
-One of the largest challenges was balancing sensor reliability with mechanical constraints. Environmental lighting conditions caused unexpected QTI behavior during competition, requiring on-the-fly modifications to the robot’s navigation strategy.
-
-The project also involved extensive iterative redesign:
-- Replacing a failed hinged intake system
-- Removing the ultrasonic sensor due to power limitations
-- Redesigning wheel integration after dimensional conflicts
-- Adjusting sensor positioning to prevent drag and wheel interference
-
-These constraints ultimately pushed the project toward a more robust and simplified autonomous strategy.
-
-# Final Report
-
-[Download Final Report](../assets/pdf/mechatronics-final-report.pdf)
-
-# Technical Highlights
-
-- Interrupt-driven color sensing
-- Register-level motor PWM control
-- Sensor fusion logic
-- Autonomous state-based navigation
-- Embedded debugging and tuning
-
-# Reflection
-
-This project reinforced the importance of iterative engineering design, hardware/software integration, and designing fallback behaviors for unreliable sensor conditions. Although the robot did not fully perform as intended during competition, the project demonstrated strong problem-solving, rapid iteration, and embedded systems development under real-world constraints.
+[Final Report PDF](../assets/pdf/mechatronics-final-report.pdf)
