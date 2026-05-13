@@ -19,4 +19,4 @@ As we tested the robot, we encountered challenges with sensor reliability, wheel
 
 The final robot used QTI sensors for boundary detection and a color sensor for board navigation, with embedded C code controlling motor movement and recovery behavior. During competition, varying lighting conditions significantly impacted QTI sensor performance, requiring us to quickly adapt the robot by relying more heavily on color sensing. Although the robot did not fully perform as intended, the project provided valuable experience in embedded systems, iterative engineering design, debugging under constraints, and integrating mechanical, electrical, and software systems into a functioning autonomous robot.
 
-[Final Report PDF](../assets/pdf/mechatronics-final-report.pdf)
+[Final Report PDF](Mechatronics Final Report.pdf)
